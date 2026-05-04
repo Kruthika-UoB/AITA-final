@@ -40,4 +40,9 @@ We use the **PubMedQA** dataset, consisting of:
 
 ---
 
+## Previous Repository
 
+The early stages of this project were developed in a previous repository. However, to improve structure and clarity, the project was reorganized into the current repository.
+
+
+Old repository: https://github.com/abisxek/ai-ta-coursework-group-26
